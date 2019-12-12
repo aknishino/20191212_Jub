@@ -1,0 +1,180 @@
+=================== Start Log : 1 ===================
+===== Finish learning sequence ====
+Total Learning data count : 780
+Succeed Learning data count (ratio) : 780 (100.0%)
+==================== End Log : 1 ====================
+
+=================== Start Log : 2 ===================
+===== Finish learning sequence ====
+Total Learning data count : 780
+Succeed Learning data count (ratio) : 780 (100.0%)
+==================== End Log : 2 ====================
+
+=================== Start Log : 3 ===================
+===== Finish learning sequence ====
+Total Learning data count : 780
+Succeed Learning data count (ratio) : 780 (100.0%)
+==================== End Log : 3 ====================
+
+=================== Start Log : 4 ===================
+===== Finish learning sequence ====
+Total Learning data count : 780
+Succeed Learning data count (ratio) : 780 (100.0%)
+==================== End Log : 4 ====================
+
+=================== Start Log : 5 ===================
+===== Finish learning sequence ====
+Total Learning data count : 780
+Succeed Learning data count (ratio) : 780 (100.0%)
+==================== End Log : 5 ====================
+
+=================== Start Log : 6 ===================
+===== Finish learning sequence ====
+Total Learning data count : 780
+Succeed Learning data count (ratio) : 780 (100.0%)
+==================== End Log : 6 ====================
+
+=================== Start Log : 7 ===================
+===== Finish learning sequence ====
+Total Learning data count : 780
+Succeed Learning data count (ratio) : 780 (100.0%)
+==================== End Log : 7 ====================
+
+=================== Start Log : 8 ===================
+===== Finish learning sequence ====
+Total Learning data count : 780
+Succeed Learning data count (ratio) : 780 (100.0%)
+==================== End Log : 8 ====================
+
+=================== Start Log : 9 ===================
+===== Finish learning sequence ====
+Total Learning data count : 780
+Succeed Learning data count (ratio) : 780 (100.0%)
+==================== End Log : 9 ====================
+
+=================== Start Log : 10 ===================
+===== Finish learning sequence ====
+Total Learning data count : 780
+Succeed Learning data count (ratio) : 780 (100.0%)
+==================== End Log : 10 ====================
+
+=================== Start Log : 11 ===================
+===== Finish learning sequence ====
+Total Learning data count : 780
+Succeed Learning data count (ratio) : 780 (100.0%)
+==================== End Log : 11 ====================
+
+=================== Start Log : 12 ===================
+===== Finish learning sequence ====
+Total Learning data count : 780
+Succeed Learning data count (ratio) : 780 (100.0%)
+==================== End Log : 12 ====================
+
+=================== Start Log : 13 ===================
+===== Finish learning sequence ====
+Total Learning data count : 780
+Succeed Learning data count (ratio) : 780 (100.0%)
+==================== End Log : 13 ====================
+
+=================== Start Log : 14 ===================
+===== Finish learning sequence ====
+Total Learning data count : 780
+Succeed Learning data count (ratio) : 780 (100.0%)
+==================== End Log : 14 ====================
+
+=================== Start Log : 15 ===================
+===== Finish learning sequence ====
+Total Learning data count : 780
+Succeed Learning data count (ratio) : 780 (100.0%)
+==================== End Log : 15 ====================
+
+=================== Start Log : 16 ===================
+===== Finish learning sequence ====
+Total Learning data count : 780
+Succeed Learning data count (ratio) : 780 (100.0%)
+==================== End Log : 16 ====================
+
+=================== Start Log : 17 ===================
+===== Finish learning sequence ====
+Total Learning data count : 780
+Succeed Learning data count (ratio) : 780 (100.0%)
+==================== End Log : 17 ====================
+
+=================== Start Log : 18 ===================
+===== Finish learning sequence ====
+Total Learning data count : 780
+Succeed Learning data count (ratio) : 780 (100.0%)
+==================== End Log : 18 ====================
+
+=================== Start Log : 19 ===================
+===== Finish learning sequence ====
+Total Learning data count : 780
+Succeed Learning data count (ratio) : 780 (100.0%)
+==================== End Log : 19 ====================
+
+=================== Start Log : 20 ===================
+===== Finish learning sequence ====
+Total Learning data count : 780
+Succeed Learning data count (ratio) : 780 (100.0%)
+==================== End Log : 20 ====================
+
+=================== Start Log : 21 ===================
+===== Finish learning sequence ====
+Total Learning data count : 780
+Succeed Learning data count (ratio) : 780 (100.0%)
+==================== End Log : 21 ====================
+
+=================== Start Log : 22 ===================
+===== Finish learning sequence ====
+Total Learning data count : 780
+Succeed Learning data count (ratio) : 780 (100.0%)
+==================== End Log : 22 ====================
+
+=================== Start Log : 23 ===================
+===== Finish learning sequence ====
+Total Learning data count : 780
+Succeed Learning data count (ratio) : 780 (100.0%)
+==================== End Log : 23 ====================
+
+=================== Start Log : 24 ===================
+===== Finish learning sequence ====
+Total Learning data count : 780
+Succeed Learning data count (ratio) : 780 (100.0%)
+==================== End Log : 24 ====================
+
+=================== Start Log : 25 ===================
+===== Finish learning sequence ====
+Total Learning data count : 780
+Succeed Learning data count (ratio) : 780 (100.0%)
+==================== End Log : 25 ====================
+
+=================== Start Log : 26 ===================
+===== Finish learning sequence ====
+Total Learning data count : 780
+Succeed Learning data count (ratio) : 780 (100.0%)
+==================== End Log : 26 ====================
+
+=================== Start Log : 27 ===================
+===== Finish learning sequence ====
+Total Learning data count : 780
+Succeed Learning data count (ratio) : 780 (100.0%)
+==================== End Log : 27 ====================
+
+=================== Start Log : 28 ===================
+===== Finish learning sequence ====
+Total Learning data count : 780
+Succeed Learning data count (ratio) : 780 (100.0%)
+==================== End Log : 28 ====================
+
+=================== Start Log : 29 ===================
+===== Finish learning sequence ====
+Total Learning data count : 780
+Succeed Learning data count (ratio) : 780 (100.0%)
+==================== End Log : 29 ====================
+
+=================== Start Log : 30 ===================
+===== Finish learning sequence ====
+Total Learning data count : 780
+Succeed Learning data count (ratio) : 780 (100.0%)
+==================== End Log : 30 ====================
+
